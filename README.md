@@ -2,7 +2,7 @@
 
 In this lab, you learned about the basic building block of sequential circuits: the latch.
 
-## TEAM25 Avien "aura" Ramirez and Will "The Man" Reisig
+## TEAM25 Avien Ramirez and Will Reisig
 
 ## Rubric
 
